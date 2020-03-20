@@ -1,0 +1,9 @@
+flask
+firebase_admin
+bson
+pymongo>=2.7.1
+flask_cors
+flask-restful
+xlrd
+pandas
+gunicorn
